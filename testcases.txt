@@ -1,0 +1,11 @@
+Happy path
+
+1. add a task
+2. Edit/updaed task
+3. Mark as done one task
+4. Delete done task
+
+
+Complete test cases
+
+5. Filter
