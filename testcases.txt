@@ -9,3 +9,4 @@ Happy path
 Complete test cases
 
 5. Filter
+6. add more that 2 task and validate the filters and the text item with number
